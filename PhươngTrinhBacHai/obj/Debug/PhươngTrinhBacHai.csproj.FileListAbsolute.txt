@@ -1,0 +1,6 @@
+C:\Users\Pham Thang\RiderProjects\lab06\PhươngTrinhBacHai\bin\Debug\PhươngTrinhBacHai.exe
+C:\Users\Pham Thang\RiderProjects\lab06\PhươngTrinhBacHai\bin\Debug\PhươngTrinhBacHai.pdb
+C:\Users\Pham Thang\RiderProjects\lab06\PhươngTrinhBacHai\obj\Debug\PhươngTrinhBacHai.csprojAssemblyReference.cache
+C:\Users\Pham Thang\RiderProjects\lab06\PhươngTrinhBacHai\obj\Debug\PhươngTrinhBacHai.csproj.CoreCompileInputs.cache
+C:\Users\Pham Thang\RiderProjects\lab06\PhươngTrinhBacHai\obj\Debug\PhươngTrinhBacHai.exe
+C:\Users\Pham Thang\RiderProjects\lab06\PhươngTrinhBacHai\obj\Debug\PhươngTrinhBacHai.pdb
